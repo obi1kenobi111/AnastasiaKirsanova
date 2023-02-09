@@ -1,0 +1,23 @@
+﻿  ShallowWater2D.cpp
+D:\00_Diplom\ShallowWater\ShallowWater2D — копия\ShallowWater2D\Vectors.h(29,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\00_Diplom\ShallowWater\ShallowWater2D — копия\ShallowWater2D\Vectors.h(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\00_Diplom\ShallowWater\ShallowWater2D — копия\ShallowWater2D\Vectors.h(34,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\00_Diplom\ShallowWater\ShallowWater2D — копия\ShallowWater2D\ShallowWater2D.cpp(83,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\00_Diplom\ShallowWater\ShallowWater2D — копия\ShallowWater2D\ShallowWater2D.cpp(86,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\00_Diplom\ShallowWater\ShallowWater2D — копия\ShallowWater2D\ShallowWater2D.cpp(100,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\00_Diplom\ShallowWater\ShallowWater2D — копия\ShallowWater2D\ShallowWater2D.cpp(101,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  0 of 475 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+D:\00_Diplom\ShallowWater\ShallowWater2D — копия\Release\ShallowWater2D.exe : fatal error LNK1281: Не удается создать образ SAFESEH.
